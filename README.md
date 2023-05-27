@@ -1,5 +1,5 @@
 ### Hi there 👋
-#- 🌱 I’m currently learning on ReactJS. 
+- 🌱 I’m currently learning on ReactJS. 
 
 
 <!--
