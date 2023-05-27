@@ -2,6 +2,7 @@
 - 👯 Je cherche un premier poste sur la techno React.js
 - :newspaper: Mon portfolio talentsenaction.fr
 - 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://fr.legacy.reactjs.org/logo-og.png" height="100" /></a>
 
 <!--
 **benoitdebuyer/benoitdebuyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
