@@ -1,6 +1,6 @@
-### Hi there 👋
-- 🌱 I’m currently learning on ReactJS. 
-
+### Bonjour 👋
+- 👯 Je cherche un premier poste sur la techno React.js
+- :newspaper: 
 
 <!--
 **benoitdebuyer/benoitdebuyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
