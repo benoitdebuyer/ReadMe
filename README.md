@@ -3,6 +3,6 @@
 ### Bonjour 👋
 - 👯 Je cherche un premier poste en React.js
 - :newspaper: [LinkedIn](https://www.linkedin.com/in/benoitdebuyer/)
-- :mag_right: Mes projets : [CodeWars](https://www.codewars.com/users/debuyer) et mon [portfolio](talentsenaction.fr)
+- :pushpin: Mes projets : [CodeWars](https://www.codewars.com/users/debuyer) et mon [portfolio](talentsenaction.fr)
 
 
