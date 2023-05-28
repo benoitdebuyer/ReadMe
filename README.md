@@ -5,5 +5,6 @@
 - :pushpin: Voici quelques réalisations perso : [CodeWars](https://www.codewars.com/users/debuyer) et mon [portfolio](talentsenaction.fr)
 - :newspaper: Mes coordonnées : [LinkedIn](https://www.linkedin.com/in/benoitdebuyer/)
 
-
+### Ma boîte à outils :
+<img src="https://img.shields.io/badge/Javascript-Javascript-yellow"/>
 
