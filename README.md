@@ -6,7 +6,7 @@
 
 ### Ma boîte à outils :
 #### Langages : 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)]
 
 #### Backend : 
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
