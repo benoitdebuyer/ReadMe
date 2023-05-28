@@ -2,6 +2,6 @@
 
 ### Bonjour 👋
 - 👯 Je cherche un premier poste en React.js
-- :newspaper: Mon [portfolio](talentsenaction.fr) 
+- :newspaper: Mon [portfolio](talentsenaction.fr) et mon [CodeWars](https://www.codewars.com/users/debuyer) 
 
 
