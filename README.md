@@ -5,14 +5,18 @@
 - :newspaper: Mes coordonnées : [LinkedIn](https://www.linkedin.com/in/benoitdebuyer/)
 
 ### Ma boîte à outils :
-#### Langages : 
-![My Skills](https://skillicons.dev/icons?i=js)
+#### Langages et éditeur de texte: 
+![My Skills](https://skillicons.dev/icons?i=js,vscode,)
 
 #### Backend : 
-[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,) 
 
 #### Frontend : 
-- [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,redux,jest,ts,)
+
+#### Déploiement : 
+![My Skills](https://skillicons.dev/icons?i=vercel,)
+
 
 #### Organisatiion : 
-- [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,figma,trello)
