@@ -6,13 +6,13 @@
 
 ### Ma boîte à outils :
 #### Langages et éditeur de texte: 
-![My Skills](https://skillicons.dev/icons?i=js,vscode,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode)
 
 #### Backend : 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,) 
 
 #### Frontend : 
-![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,redux,jest,ts,)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,jest,ts,)
 
 #### Déploiement : 
 ![My Skills](https://skillicons.dev/icons?i=vercel,)
