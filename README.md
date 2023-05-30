@@ -6,8 +6,8 @@
 - :newspaper: Mes coordonnées : [linkedIn](https://www.linkedin.com/in/benoitdebuyer/)
 
 ### :hammer_and_wrench: Ma boîte à outils :
-#### Langages et éditeur de texte: 
-- HTML, CSS, Typescript, Vscode
+#### Langages et éditeur de texte: # HTML, CSS, Typescript, Vscode
+- 
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vscode)
 
