@@ -18,4 +18,4 @@
 #### Organisation : *Git, GitHub, Figma, Kanban (Trello)* <===> ![My Skills](https://skillicons.dev/icons?i=git,github,figma)
 -----------------
 ### Autres :
-- Me trouver sur [CodeWars](https://www.codewars.com/users/debuyer)
+- Mes challenges [CodeWars](https://www.codewars.com/users/debuyer)
