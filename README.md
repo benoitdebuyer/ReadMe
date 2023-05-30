@@ -8,22 +8,26 @@
 ### :hammer_and_wrench: Ma boîte à outils :
 #### Langages et éditeur de texte: 
 - HTML, CSS, Typescript, Vscode
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vscode)
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vscode)
 
 #### Backend : 
 - Node.js, Express, MongoDB
 
-  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb) 
+ ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb) 
 
 #### Frontend : 
 - React.js, next.js, Redux, Jest
-  ![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,jest)
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,jest)
 
 #### Déploiement : 
 - Vercel
-  ![My Skills](https://skillicons.dev/icons?i=vercel)
+
+![My Skills](https://skillicons.dev/icons?i=vercel)
 
 
 #### Organisation : 
 - Git, GitHub, Figma, Kanban (Trello)
-  ![My Skills](https://skillicons.dev/icons?i=git,github,figma)
+
+![My Skills](https://skillicons.dev/icons?i=git,github,figma)
