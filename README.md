@@ -7,9 +7,9 @@
 - :newspaper: Me contacter : [linkedIn](https://www.linkedin.com/in/benoitdebuyer/) ou benoit.debuyer@gmail.com
 -----------------
 ### :hammer_and_wrench: Outils :
-#### Langages et éditeur de texte: *HTML, CSS, Javascript, Typescript, Vscode* <===>![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vscode)
+#### Langages et éditeur de texte: *HTML, CSS, Javascript, Typescript, Vscode* <===> ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vscode)
 
-#### Backend :  *Node.js, Express, MongoDB* <===>![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb) 
+#### Backend :  *Node.js, Express, MongoDB* <===>  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb) 
 
 #### Frontend : *React.js, next.js, Redux, Jest*   <===>    ![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,jest)
 
