@@ -1,6 +1,6 @@
 
 ### 👋 Présentation 👋
-- :man_student: Titre Professionel Développeur Web et Web Mobile (RNCP niveau 5)
+- :man_student: Titre Professionel Chef de projet de développement d'applications web et mobile (RNCP Niveau 6)
 - :mortar_board: Formation à La Capsule : 450 heures de formation intensive
 - 👯 Je recherche un premier poste en React.js
 - :pushpin: Mon [portfolio](talentsenaction.fr), mon [CV](talentsenaction.fr)
