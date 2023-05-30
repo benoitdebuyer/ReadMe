@@ -12,7 +12,7 @@
 
 #### Backend : 
 - Node.js, Express, MongoDB
-- 
+
   ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb) 
 
 #### Frontend : 
