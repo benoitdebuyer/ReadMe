@@ -15,6 +15,5 @@
 
 #### Déploiement : *Vercel* <===> ![My Skills](https://skillicons.dev/icons?i=vercel)
 
-
 #### Organisation : *Git, GitHub, Figma, Kanban (Trello)* <===> ![My Skills](https://skillicons.dev/icons?i=git,github,figma)
 -----------------
