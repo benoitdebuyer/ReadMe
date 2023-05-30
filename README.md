@@ -6,7 +6,7 @@
 - :pushpin: Mon [portfolio](talentsenaction.fr), mon [CV](talentsenaction.fr) et mes défis techniques réalisés sur [CodeWars](https://www.codewars.com/users/debuyer)
 - :newspaper: Me contacter : [linkedIn](https://www.linkedin.com/in/benoitdebuyer/) ou benoit.debuyer@gmail.com
 -----------------
-### :hammer_and_wrench: Outils utilisés :
+### :hammer_and_wrench: Outils :
 #### Langages et éditeur de texte: *HTML, CSS, Javascript, Typescript, Vscode* <===>![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vscode)
 
 #### Backend :  *Node.js, Express, MongoDB* <===>![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb) 
