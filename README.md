@@ -1,5 +1,5 @@
 
-### 👋 Bienvenue 👋
+### 👋 Présentation 👋
 - :man_student: Titre Professionel Développeur Web et Web Mobile (RNCP niveau 5)
 - :mortar_board: Formation à La Capsule : 450 heures de formation intensive
 - 👯 Je recherche un premier poste en React.js
