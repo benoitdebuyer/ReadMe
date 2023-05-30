@@ -3,7 +3,7 @@
 - :man_student: Titre Professionel Développeur Web et Web Mobile (RNCP niveau 5)
 - :mortar_board: Formation à La Capsule : 450 heures de formation intensive
 - 👯 Je recherche un premier poste en React.js
-- :pushpin: Mon [portfolio](talentsenaction.fr), mon [CV](talentsenaction.fr) et mes défis techniques réalisés sur [CodeWars](https://www.codewars.com/users/debuyer)
+- :pushpin: Mon [portfolio](talentsenaction.fr), mon [CV](talentsenaction.fr)
 - :newspaper: Me contacter : [linkedIn](https://www.linkedin.com/in/benoitdebuyer/) ou benoit.debuyer@gmail.com
 -----------------
 ### :hammer_and_wrench: Outils :
