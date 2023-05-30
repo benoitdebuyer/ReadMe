@@ -4,7 +4,7 @@
 - :mortar_board: Formation à La Capsule : 450 heures de formation intensive
 - 👯 Je recherche un premier poste en React.js
 - :pushpin: Mon [portfolio](talentsenaction.fr), mon [CV](talentsenaction.fr) et mes défis techniques réalisés sur [CodeWars](https://www.codewars.com/users/debuyer)
-- :newspaper: Mes coordonnées : [linkedIn](https://www.linkedin.com/in/benoitdebuyer/)
+- :newspaper: Me contacter : [linkedIn](https://www.linkedin.com/in/benoitdebuyer/) ou à l'adresse benoit.debuyer@gmail.com
 -----------------
 ### :hammer_and_wrench: Ma boîte à outils :
 #### Langages et éditeur de texte: *HTML, CSS, Javascript, Typescript, Vscode* <===>![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vscode)
