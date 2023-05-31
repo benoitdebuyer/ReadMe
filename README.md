@@ -6,7 +6,7 @@
 - :pushpin: Mon [portfolio](talentsenaction.fr), mon [CV](talentsenaction.fr)
 - :newspaper: Me contacter : [linkedIn](https://www.linkedin.com/in/benoitdebuyer/) ou benoit.debuyer@gmail.com
 -----------------
-### :hammer_and_wrench: Outils :
+### :hammer_and_wrench: Mes Outils :
 #### Langages et éditeur de texte: *HTML, CSS, Javascript, Typescript, Vscode* <===> ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vscode)
 
 #### Backend :  *Node.js, Express, MongoDB* <===>  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb) 
