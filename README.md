@@ -19,3 +19,4 @@
 -----------------
 ### Autres :
 - Mes challenges [CodeWars](https://www.codewars.com/users/debuyer)
+- Syst. d'exploitation : Linux
